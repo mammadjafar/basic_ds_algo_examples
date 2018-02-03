@@ -1,5 +1,4 @@
-# basic_ds_algo_examples
-### Implementations for basic data structures and algorithms 
+## Implementations for basic data structures and algorithms 
 In graph folder we have some basic **Graph** data stucture example, with 
  - Minimum spanning tree 
  - Topological order 
